@@ -1,0 +1,1 @@
+Developer doing development without pulling code from GIT HUB.
